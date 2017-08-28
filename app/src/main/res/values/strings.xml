@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplicativo1</string>
+    <string name="title_activity_tela_principal">TelaPrincipal</string>
+    <string name="ola_mundo">Olá Mundo!</string>
+    <string name="lblDiskPizza">DiskPizza</string>
+    <string name="mensagemInicio">Clique no botão para pedir a sua Pizza:</string>
+    <string name="botaoInicio">Montar Pizza</string>
+</resources>
